@@ -1,3 +1,13 @@
+<div align="center">
+
+<img src="assets/logo.png?v=1" width="280" alt="six-words-01 logo">
+
+**Six words, one story. Sold the lighthouse. Kept the light.**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=FF7A00&color=0A1931) ![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&labelColor=FF7A00&color=0A1931) ![By Kontenlaris Studio](https://img.shields.io/badge/By-Kontenlaris%20Studio-orange?style=for-the-badge&labelColor=FF7A00&color=0A1931)
+
+</div>
+
 # six-words-01
 
 [![make.fun · u-deranalabs-six-words-one-story-f982e410](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410)
